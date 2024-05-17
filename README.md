@@ -1,4 +1,4 @@
-# template-minimal-node-express-api
+# dockerized-api-with-mongo
 
 This is a minimum TypeScript Node/Express API that is ready to add any data source to and host at online backend providers such as Render.
 
